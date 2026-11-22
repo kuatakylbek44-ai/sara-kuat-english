@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuatakylbek44-ai.github.io/sara-kuat-english/sitemap.xml
